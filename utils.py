@@ -410,8 +410,8 @@ async def get_shortlink(link):
                     return data['shortlink']
                 else:
                     logger.error(f"Error: {data['message']}")
-                    return f'https://onepagelink.in/api?api={URL_SHORTNER_WEBSITE_API}&url={link}'
+                    return f'https://{URL_SHORTENR_WEBSITE}/api?api={URL_SHORTNER_WEBSITE_API}&url={link}'
 
     except Exception as e:
         logger.error(e)
-        return f'https://onepagelink.in/api?api={URL_SHORTNER_WEBSITE_API}&url={link}'
+        return f'https://{URL_SHORTENR_WEBSITE/api}?api={URL_SHORTNER_WEBSITE_API}&url={link}'
