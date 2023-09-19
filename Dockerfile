@@ -10,3 +10,4 @@ RUN mkdir /UrlShortner-AutoFilter-Bot
 WORKDIR /UrlShortner-AutoFilter-Bot
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
+EXPOSE 8080
