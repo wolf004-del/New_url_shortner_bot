@@ -24,7 +24,7 @@ COPY start.sh /start.sh
 
 Copy . .
 # Set execute permissions for the start.sh script
-RUN chmod +x /UrlShortner-AutoFilter-Bot/start.sh
+
 
 # Start the application using start.sh script
 CMD ["/bin/bash", "/start.sh"]
