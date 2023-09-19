@@ -11,17 +11,14 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/kunal_nagar_01>𒆜 𝖪ᴜɴᴀʟ ࿐</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Anonymous_00head>𒆜 𝖪ᴜɴᴀʟ ࿐</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/kd_botz>KD Bᴏᴛᴢ ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/noidiotsneeded00>KD Bᴏᴛᴢ ⚡</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
-    SOURCE_TXT ="""
-<b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
-
-- Sᴏᴜʀᴄᴇ - <a href=https://github.com/kdbotz/LUCIFER>DEVIL LUCIFER</a></b>
-"""
+    SOURCE_TXT ="NOT AN OPEN SOURCE PROJECT ✨️🤡
+"
  
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -134,7 +131,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @KD_Botz ]─────⍟</b>"""
+<b>⍟────[ @Anonymous_00head]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
@@ -192,8 +189,8 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 𝖪ᴜɴᴀʟ ࿐『🇮🇳』
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Kunal_Nagar_01
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/x_kunal_01'>𝖪ᴜɴᴀʟ ࿐</a></b>
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Anonymous_00head 
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/noidiotsneeded00>𝖪ᴜɴᴀʟ ࿐</a></b>
 """
 
     KD_IMDB = """
@@ -221,8 +218,8 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
 • /batch <code>- ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ᴍᴇᴅɪᴀ.<code>
 
 <b>Exᴀᴍᴘʟᴇ:</b>
-<code>/batch https://t.me/MoviesHouse8/1 
-https://t.me/MoviesHouse8/9</code>
+<code>/batch https://t.me/noidiotsneeded00 
+https://t.me/noidiotsneeded00</code>
 """
 
     KD_CNL = """
