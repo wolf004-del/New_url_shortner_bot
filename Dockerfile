@@ -1,5 +1,5 @@
 
-FROM python:3.8-slim-buster
+FROM python:3.10-slim-buster
 
 # Update and upgrade the system packages
 RUN apt update && apt upgrade -y
@@ -20,13 +20,14 @@ RUN mkdir /UrlShortner-AutoFilter-Bot
 WORKDIR /UrlShortner-AutoFilter-Bot
 
 # Copy the start.sh script to the application directory
-COPY start.sh /UrlShortner-AutoFilter-Bot/start.sh
+COPY start.sh /start.sh
 
+Copy . .
 # Set execute permissions for the start.sh script
 RUN chmod +x /UrlShortner-AutoFilter-Bot/start.sh
 
 # Start the application using start.sh script
-CMD ["/bin/bash", "/UrlShortner-AutoFilter-Bot/start.sh"]
+CMD ["/bin/bash", "/start.sh"]
 
 # Expose the port used by the application
 EXPOSE 8080
